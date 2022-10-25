@@ -1,0 +1,42 @@
+[
+    {
+        "name": "abir ahmed",
+        "nid": "AYB445872",
+        "phonenumber": "0164787521",
+        "password": "00000",
+        "area": "amtala",
+        "city": "mirpur13",
+        "district": "dhaka",
+        "dob": "2000-01-26"
+    },
+    {
+        "name": "asraf ali",
+        "nid": "AYB445458",
+        "phonenumber": "0164787140",
+        "password": "55555",
+        "area": "ansercamp",
+        "city": "mirpur1",
+        "district": "dhaka",
+        "dob": "2000-01-26"
+    },
+    {
+        "name": "abrar fahad",
+        "nid": "145547AV",
+        "phonenumber": "014572882",
+        "password": "12345",
+        "area": "kaliganj bazar",
+        "city": "gazipur",
+        "district": "dhaka",
+        "dob": "2022-10-25"
+    },
+    {
+        "name": "sagor islam",
+        "nid": "21544AV",
+        "phonenumber": "0163360614",
+        "password": "12345",
+        "area": "khondokar road",
+        "city": "Jurain",
+        "district": "Dhaka",
+        "dob": "2022-10-11"
+    }
+]
