@@ -1,0 +1,49 @@
+.top{
+  background-color: aliceblue;
+}
+nav{
+  background-color: #114784;
+  padding: 10px;
+}
+a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+h3, h1{
+    text-align: center;
+   color:#114784;
+  }
+  .c{
+    padding-top: 3%;
+  }
+  body {
+    font-family: Arial;
+    padding: 10px;
+    background-color: #75aadb ;
+    color: #ffffff;
+  }
+
+.columna{
+padding-left: 350px;
+  }
+  .columnb{
+    padding-left: 50px;
+    margin-bottom: 15px;
+  }
+
+input{
+    border-radius: 4px;
+    border:0.6px rgb(24, 23, 23);
+    padding: 5px;
+}
+
+button{
+    background-color: rgba(255, 249, 249, 0);
+    color: rgb(1, 1, 15);
+    border-radius: 5px;
+    margin-left: 100%;
+    margin-top: 25px;
+}
